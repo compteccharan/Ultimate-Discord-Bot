@@ -3,7 +3,7 @@ Ultimate discord bot made by me purely with no help from others.
 
 # Support Server 
 
-<div align="center"> <a href="https://discord.gg/saButtPeKT"><img src="https://invidget.switchblade.xyz/saButtPeKT"/></a>
+<div align="center"> <a href="https://discord.gg/EpP2uAKhfa"><img src="https://invidget.switchblade.xyz/EpP2uAKhfa"/></a>
 
 
 # Working example 
