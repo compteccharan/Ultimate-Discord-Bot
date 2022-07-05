@@ -11,7 +11,7 @@
   "author": "Nir Gal",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "^0.8.0",
     "@vitalets/google-translate-api": "^7.0.0",
     "canvas": "^2.8.0",
     "cheerio": "^1.0.0-rc.9",
